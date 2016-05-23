@@ -1,0 +1,7 @@
+# Generated sources#
+###################
+www/dist/*
+www/lib/*
+node_modules/*
+plugins/*
+platforms/*
